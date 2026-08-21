@@ -1,14 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Pixel perfect web apps and interactive projects using React.js<br><br>👯 I’m looking to collaborate on<br>Frontend-heavy projects, React apps, AI-integrated products, and creative web ideas that mix design + tech.<br><br>🌱 I’m currently learning<br>Backend, AI engineering, Python for ML, system design, and improving my problem-solving & security knowledge.<br><br>💬 Ask me about<br>React, frontend development, UI/UX ideas, web security basics and student tech projects.<br><br>⚡ Fun fact<br>I love turning complex tech ideas into simple, fun web experiences 🚀
 
-## 🛡️ Security Contributions:
+## 🛡️ Security Research:
 
-- **Novu — Weak Password Policy on Dashboard**
-  - Reported a security vulnerability in [Novu](https://github.com/novuhq/novu)
-  - **GHSA:** [GHSA-rwfx-fwc7-rg4j](https://github.com/novuhq/novu/security/advisories/GHSA-rwfx-fwc7-rg4j)
-  - **Severity:** Moderate
-  - **CVSS:** 6.5
-  - **Credit:** Reporter
+- 🔐 **HackerOne:** [eqan-ggg](https://hackerone.com/eqan-ggg?type=user)
+- ⭐ **Skipr Security Hall of Fame:** [Eqan Chauhan](https://www.skipr.co/resources/responsible-disclosure)
+- 🛡️ **Novu Security Advisory:** [GHSA-rwfx-fwc7-rg4j](https://github.com/novuhq/novu/security/advisories/GHSA-rwfx-fwc7-rg4j)
+  - Weak Password Policy on Dashboard
+  - Severity: Moderate
+  - Credit: Reporter
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin/in/eqan-hanif) 
