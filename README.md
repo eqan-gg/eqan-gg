@@ -4,11 +4,10 @@
 ## 🛡️ Security Research:
 
 - 🔐 **HackerOne:** [eqan-ggg](https://hackerone.com/eqan-ggg?type=user)
-- ⭐ **Skipr Security Hall of Fame:** [Eqan Chauhan](https://www.skipr.co/resources/responsible-disclosure)
+- 👨‍💻 **Hook0 Security Researcher Acknowledgment:** [Eqan Chauhan](https://documentation.hook0.com/resources/security-acknowledgments)
 - 🛡️ **Novu Security Advisory:** [GHSA-rwfx-fwc7-rg4j](https://github.com/novuhq/novu/security/advisories/GHSA-rwfx-fwc7-rg4j)
-  - Weak Password Policy on Dashboard
-  - Severity: Moderate
-  - Credit: Reporter
+- ⭐ **Skipr Security Hall of Fame:** [Eqan Chauhan](https://www.skipr.co/resources/responsible-disclosure)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin/in/eqan-hanif) 
